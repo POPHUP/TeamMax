@@ -1,5 +1,5 @@
-# # # TeamMax
+# TeamMax
 
-# id Telegram : @abstanze
+ id Telegram : @abstanze
 
-# id BOT : @INFO9
+ id BOT : @INFO9
